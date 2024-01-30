@@ -1,0 +1,2 @@
+storeId,locationName,brandName,brandId,address,suburb,state,phone,postcode,latitude,longitude,collectionDescription,collectionType,collectionInstructions,baggingOptions
+710,Coles World Square - Service Desk,Coles Supermarkets,2,"World Square, 650 George Street",Sydney,NSW,0466 791 382,2000,-33.877321,151.206106,Click&Collect Service Desk,SERVICE_DESK,Please collect your order in store from the Service Desk.,['bagged']
