@@ -94,10 +94,10 @@ def send_notificiation(website,data_changed,data_not_present,column):
 
 def sql_connect():
     mydb = mysql.connector.connect(
-    host='108.167.157.249',
-    user='upx0o9yq_python_script',
-    password='pYZHzQlXJv17',
-    database='upx0o9yq_all_database'
+    host='',
+    user='',
+    password='',
+    database=''
     )
     mycursor = mydb.cursor()
     return mydb , mycursor
